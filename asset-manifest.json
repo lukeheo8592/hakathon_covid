@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hakathon_covid/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/hakathon_covid/static/js/main.5ed0366a.chunk.js",
+    "main.js.map": "/hakathon_covid/static/js/main.5ed0366a.chunk.js.map",
+    "runtime-main.js": "/hakathon_covid/static/js/runtime-main.ddcbeaee.js",
+    "runtime-main.js.map": "/hakathon_covid/static/js/runtime-main.ddcbeaee.js.map",
+    "static/css/2.fabbef47.chunk.css": "/hakathon_covid/static/css/2.fabbef47.chunk.css",
+    "static/js/2.fe2fc4e0.chunk.js": "/hakathon_covid/static/js/2.fe2fc4e0.chunk.js",
+    "static/js/2.fe2fc4e0.chunk.js.map": "/hakathon_covid/static/js/2.fe2fc4e0.chunk.js.map",
+    "static/js/3.f1fdf05b.chunk.js": "/hakathon_covid/static/js/3.f1fdf05b.chunk.js",
+    "static/js/3.f1fdf05b.chunk.js.map": "/hakathon_covid/static/js/3.f1fdf05b.chunk.js.map",
+    "index.html": "/hakathon_covid/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/hakathon_covid/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/hakathon_covid/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.fe2fc4e0.chunk.js.LICENSE.txt": "/hakathon_covid/static/js/2.fe2fc4e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddcbeaee.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.fe2fc4e0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5ed0366a.chunk.js"
+  ]
+}
